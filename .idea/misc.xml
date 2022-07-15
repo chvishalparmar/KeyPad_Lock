@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/VISHAL/AndroidStudioProjects/KeyPadLock/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/VISHAL/AndroidStudioProjects/KeyPadLock/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/VISHAL/AndroidStudioProjects/KeyPadLock/app/src/main/res/layout/activity_main2.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/VISHAL/AndroidStudioProjects/KeyPadLock/app/src/main/res/layout/content_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/VISHAL/AndroidStudioProjects/KeyPadLock/app/src/main/res/layout/fragment_first.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/VISHAL/AndroidStudioProjects/KeyPadLock/app/src/main/res/layout/fragment_second.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/VISHAL/AndroidStudioProjects/KeyPadLock/app/src/main/res/layout/login.xml" value="0.33" />
       </map>
     </option>
   </component>
